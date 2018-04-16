@@ -1,0 +1,26 @@
+Sample Input 0
+
+3
+b and c d and e f
+b c d e f
+b and c d b e g f
+Sample Output 0
+
+3 [b d f]
+3 [b e f]
+3 [c d f]
+3 [c e f]
+Sample Input 1
+
+4
+Clustering and classification are important problems in machine learning.
+There are many machine learning algorithms for classification and clustering problems.
+Classification problems require training data.
+Most clustering problems require user-specified group number.
+SVM, LogisticRegression and NaiveBayes are machine learning algorithms for classification problems.
+k-means, AGNES and DBSCAN are clustering algorithms.
+Dimension reduction methods such as PCA are also learning algorithms for clustering problems.
+Sample Output 1
+
+4 [classification problems]
+4 [clustering problems]
